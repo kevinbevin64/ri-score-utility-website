@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: honeydew;
+}
+
+header h1{
+    color: darkolivegreen;
+    font-size: 24pt;
+}
+
+
+.para {
+    color: #20b2aa;
+}
+
+.para h2 {
+    font-size: 20pt;
+}
+
+.para p {
+    font-size: 14pt;
+}
+
+.para em {
+    font-style: normal;
+    font-weight: bold;
+}
+.para a, a:visited {
+    color: #1c7978;
+    font-style: oblique;
+    text-decoration: none;
+    transition: color 0.5s ease;
+}
+
+.para a:hover {
+    color: #467edf;
+    text-decoration: underline;
+}
