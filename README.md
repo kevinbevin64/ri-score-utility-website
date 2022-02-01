@@ -1,3 +1,5 @@
-# ri-score-web-utility
+# RI Score Utility Website
 
-https://kevinbevin64.github.io/ri-score-web-utility/
+## IN DEVELOPMENT
+### v1.0
+- [ ] `Download` and `About` buttons
