@@ -1,0 +1,8 @@
+.test {
+    background-color: brown;
+    transition-duration: 300ms;
+}
+
+.test:hover {
+    background-color: white;
+}
