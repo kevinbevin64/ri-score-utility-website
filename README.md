@@ -1,4 +1,4 @@
-# ri-score-web-utility
+# RI Score Utility Website
 
 ## IN DEVELOPMENT
 ### v1.0
