@@ -2,4 +2,4 @@
 
 ## IN DEVELOPMENT
 ### v1.0
-- [ ] "Download" and "About" buttons
+- [ ] `Download` and `About` buttons
