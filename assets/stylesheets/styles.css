@@ -1,8 +1,77 @@
-.test {
-    background-color: brown;
-    transition-duration: 300ms;
+* {
+    margin: 0px;
 }
 
-.test:hover {
-    background-color: white;
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height: 100vh;
+    background-color: rgb(192, 240, 224);
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    height: 100%;
+    width: 65%;
+
+    font-family: Rubik, sans-serif;
+
+    
+}
+
+.main .header {
+    font-size: 75px;
+    font-size: 3.75vw;
+    margin: 0px;
+    padding-bottom: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.main .small-header {
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
+
+.links ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 250px;
+
+    padding-right: 20px;
+    padding-left: 0px;
+
+    border-right: 10px;
+    margin-right: 10px;
+}
+
+.links a{
+    text-decoration: none;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+    background-color: rgb(34, 109, 56);
+    color: white;
+    border-radius: 14px;
+    transition-duration: 200ms;
+}
+
+
+.links a:hover{
+    background-color: black;
 }
